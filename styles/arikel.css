@@ -1,0 +1,637 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.arikel-hvh {
+  box-sizing: border-box;
+  padding-top: 0.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.arikel-hvh .group-25-q1K {
+  margin-bottom: 11.55rem;
+  box-sizing: border-box;
+  padding: 0.8rem 4.5rem 1rem 6.2rem;
+  width: 100%;
+  height: 15.7rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.200000003);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.arikel-hvh .group-25-q1K .kremdanhijauilustrasilogokateringmasakanrumahan-removebg-preview-1-j6h {
+  margin-right: 43.2rem;
+  width: 13.9rem;
+  height: 13.9rem;
+  position: relative;
+  background-size: 170.543% 170.543%;
+  background-position: -4.9566rem -4.8139rem;
+  background-image: url('../assets/kremdanhijauilustrasilogokateringmasakanrumahan-removebg-preview-1-Zq3.png');
+  flex-shrink: 0;
+}
+.arikel-hvh .group-25-q1K .frame-8-n4y {
+  margin: 3.1rem 0;
+  box-sizing: border-box;
+  padding-right: 2.2rem;
+  height: calc(100% - 6.2rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.arikel-hvh .group-25-q1K .frame-8-n4y .auto-group-qrux-hhj {
+  box-sizing: border-box;
+  padding: 2.45rem 3.1rem 2.25rem 1.95rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.arikel-hvh .group-25-q1K .frame-8-n4y .auto-group-qrux-hhj .home-dLV {
+  margin-right: 5.1rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.arikel-hvh .group-25-q1K .frame-8-n4y .auto-group-qrux-hhj .artikel-Kz1 {
+  margin-right: 5.25rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.arikel-hvh .group-25-q1K .frame-8-n4y .auto-group-qrux-hhj .pesanan-3v1 {
+  margin-right: 5.2rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.arikel-hvh .group-25-q1K .frame-8-n4y .auto-group-qrux-hhj .akun-NSV {
+  cursor: pointer;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.arikel-hvh .group-25-q1K .frame-8-n4y .shopping-online-2-6dP {
+  width: 8.3rem;
+  height: 7.7rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.arikel-hvh .artikel-BPw {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs {
+  box-sizing: border-box;
+  padding: 11.55rem 6.2rem 25.8rem 6.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-kbzh-2QZ {
+  margin-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  column-gap: 8.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-kbzh-2QZ .rectangle-61-9zy {
+  width: 38.4rem;
+  height: 19.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-kbzh-2QZ .rectangle-62-VZ3 {
+  width: 38.4rem;
+  height: 19.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-kbzh-2QZ .rectangle-63-Qvu {
+  width: 38.4rem;
+  height: 19.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-vttb-wvq {
+  margin: 0rem 5.1rem 2.55rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-vttb-wvq .pengendalian-hama-dan-penyakit-tanaman-pisang-HUu {
+  margin: 0.05rem 12rem 0rem 0rem;
+  max-width: 34.6rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-vttb-wvq .kandungan-nutrisi-dan-manfaat-buah-alpukat-ZxD {
+  margin: 0.05rem 14.2rem 0rem 0rem;
+  max-width: 32.4rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-vttb-wvq .teknik-panen-buah-kakao-yang-baik-T21 {
+  max-width: 33.3rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-rard-mHb {
+  margin: 0rem 12.2rem 11.6rem 0rem;
+  height: 6.4rem;
+  display: flex;
+  column-gap: 20.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-rard-mHb .group-32-5p5 {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #05fc00;
+  box-sizing: border-box;
+  background-color: #6ac76e;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-rard-mHb .group-26-8nM {
+  width: 26.2rem;
+  height: 100%;
+  display: flex;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #05fc00;
+  box-sizing: border-box;
+  background-color: #6ac76e;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-rard-mHb .group-10-otV {
+  width: 26.2rem;
+  height: 100%;
+  display: flex;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #05fc00;
+  box-sizing: border-box;
+  background-color: #6ac76e;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-yfht-ghP {
+  margin: 0rem 1.5rem 2.9rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-yfht-ghP .rectangle-64-cqw {
+  margin-right: 8.2rem;
+  width: 38.4rem;
+  height: 19.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-yfht-ghP .rectangle-65-Lmw {
+  margin-right: 6.6rem;
+  width: 38.4rem;
+  height: 19.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-yfht-ghP .rectangle-66-eXj {
+  width: 38.5rem;
+  height: 19.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-wn1p-PER {
+  margin: 0rem 1.6rem 2.9rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-wn1p-PER .cara-menanam-daun-bawang-dalam-pot-WZw {
+  margin-right: 9.5rem;
+  max-width: 37.1rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-wn1p-PER .panduan-teknis-budidaya-pepaya-DjF {
+  margin-right: 15rem;
+  max-width: 30rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-wn1p-PER .kiat-sukses-budidaya-cabe-rawit-Xzq {
+  max-width: 38.4rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-1syj-rGR {
+  margin: 0rem 13.8rem 14.6rem 0rem;
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-1syj-rGR .group-10-P1T {
+  margin-right: 20.4rem;
+  width: 26.2rem;
+  height: 100%;
+  display: flex;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #05fc00;
+  box-sizing: border-box;
+  background-color: #6ac76e;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-1syj-rGR .group-27-3bo {
+  margin-right: 18.8rem;
+  width: 26.2rem;
+  height: 100%;
+  display: flex;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #05fc00;
+  box-sizing: border-box;
+  background-color: #6ac76e;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-1syj-rGR .group-28-KZK {
+  width: 26.2rem;
+  height: 100%;
+  display: flex;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #05fc00;
+  box-sizing: border-box;
+  background-color: #6ac76e;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-xzrz-bmj {
+  margin: 0rem 1.5rem 2.3rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-xzrz-bmj .rectangle-67-jsw {
+  margin-right: 8.2rem;
+  width: 38.4rem;
+  height: 19.4rem;
+  position: relative;
+  background-size: 100% 197.996%;
+  background-position: 0.201rem -12.3191rem;
+  background-image: url('../assets/rectangle-67.png');
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-xzrz-bmj .rectangle-68-cwj {
+  margin-right: 6.6rem;
+  width: 38.4rem;
+  height: 19.4rem;
+  position: relative;
+  background-size: 100% 131.959%;
+  background-position: 0 -5.9135rem;
+  background-image: url('../assets/rectangle-68.png');
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-xzrz-bmj .rectangle-69-vBj {
+  width: 38.5rem;
+  height: 19.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-jgky-3GM {
+  margin: 0rem 3.6rem 1.05rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-jgky-3GM .manfaat-buah-manggis-bagi-kesehatan-yfo {
+  margin: 0.05rem 22.3rem 0rem 0rem;
+  max-width: 24.3rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-jgky-3GM .manfaat-air-kelapa-hijau-5Tw {
+  margin-right: 8.5rem;
+  max-width: 36.5rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-jgky-3GM .panduan-teknis-budidaya-buah-naga-o93 {
+  max-width: 36.4rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-eof7-uhs {
+  margin-right: 13.8rem;
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-eof7-uhs .group-29-efT {
+  margin-right: 20.4rem;
+  width: 26.2rem;
+  height: 100%;
+  display: flex;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #05fc00;
+  box-sizing: border-box;
+  background-color: #6ac76e;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-eof7-uhs .group-30-K9K {
+  margin-right: 18.8rem;
+  width: 26.2rem;
+  height: 100%;
+  display: flex;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #05fc00;
+  box-sizing: border-box;
+  background-color: #6ac76e;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .auto-group-4fn1-iPs .auto-group-eof7-uhs .group-31-mn1 {
+  width: 26.2rem;
+  height: 100%;
+  display: flex;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #05fc00;
+  box-sizing: border-box;
+  background-color: #6ac76e;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .frame-7-S7T {
+  box-sizing: border-box;
+  padding: 4rem 11rem 2.9rem 11rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #6ac76e;
+  flex-shrink: 0;
+}
+.arikel-hvh .frame-7-S7T .subscribe-to-our-newsletter-MVK {
+  margin: 0rem 78.1rem 2.9rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.arikel-hvh .frame-7-S7T .auto-group-ymfw-sCm {
+  margin: 0rem 12.9rem 4.6rem 0rem;
+  width: calc(100% - 12.9rem);
+  height: 14.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.arikel-hvh .frame-7-S7T .auto-group-ymfw-sCm .jadilah-yang-pertama-mengetahui-tentang-promo-hasil-panen-dan-informasi-terbaru-mengenai-pertanian-acy {
+  max-width: 47.7rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.15625;
+  letter-spacing: -0.064rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.arikel-hvh .frame-7-S7T .auto-group-ymfw-sCm .auto-group-c5xd-3mT {
+  box-sizing: border-box;
+  padding: 3.4rem 0rem 4.9rem 13.3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.arikel-hvh .frame-7-S7T .auto-group-ymfw-sCm .auto-group-c5xd-3mT .group-14-ZUu {
+  margin-right: 1.7683rem;
+  box-sizing: border-box;
+  padding: 1.8rem 1.617rem 1.7rem 1.617rem;
+  width: 35.4317rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f5f5f5;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.arikel-hvh .frame-7-S7T .auto-group-ymfw-sCm .auto-group-c5xd-3mT .submit-oe9 {
+  margin-bottom: 0.4rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.arikel-hvh .frame-7-S7T .kebijakan-cookie-kebijakan-privasi-syarat-dan-ketentuan-hubungi-kami-Xq3 {
+  margin-right: 4.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.9166666667;
+  letter-spacing: -0.048rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

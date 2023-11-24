@@ -1,0 +1,145 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.daftar-Q3B {
+  box-sizing: border-box;
+  padding-right: 9.8892rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.daftar-Q3B .esvat-jafarli-rnwqvopijpi-unsplash-1-Kvq {
+  margin-right: 9.9rem;
+  width: 72rem;
+  height: 113.4277rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.daftar-Q3B .auto-group-tdzt-3bw {
+  margin-top: 4.8rem;
+  width: 52.2108rem;
+  flex-shrink: 0;
+}
+.daftar-Q3B .auto-group-tdzt-3bw .nama-lengkap-AwT {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.daftar-Q3B .auto-group-tdzt-3bw .rectangle-55-5Yd {
+  margin: 0rem 0rem 5.729rem 0.3rem;
+  width: 51.9108rem;
+  height: 8.4707rem;
+  border: solid 0.3rem #6ac76e;
+  box-sizing: border-box;
+  background-color: #fffbfb;
+  border-radius: 3.5rem;
+}
+.daftar-Q3B .auto-group-tdzt-3bw .email-Aa5 {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.daftar-Q3B .auto-group-tdzt-3bw .rectangle-55-tky {
+  margin-bottom: 8.4293rem;
+  width: 51.9108rem;
+  height: 8.4707rem;
+  border: solid 0.3rem #6ac76e;
+  box-sizing: border-box;
+  background-color: #fffbfb;
+  border-radius: 3.5rem;
+}
+.daftar-Q3B .auto-group-tdzt-3bw .password-cBB {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.daftar-Q3B .auto-group-tdzt-3bw .rectangle-55-8fK {
+  margin: 0rem 0rem 8.029rem 0.3rem;
+  width: 51.9108rem;
+  height: 8.4707rem;
+  border: solid 0.3rem #6ac76e;
+  box-sizing: border-box;
+  background-color: #fffbfb;
+  border-radius: 3.5rem;
+}
+.daftar-Q3B .auto-group-tdzt-3bw .auto-group-vxpw-etZ {
+  margin-bottom: 1.9rem;
+  width: 51.6rem;
+  height: 9.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #05fc00;
+  box-sizing: border-box;
+  background-color: #6ac76e;
+  border-radius: 5rem;
+}
+.daftar-Q3B .auto-group-tdzt-3bw .sudah-punya-akun-masuk-iNd {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.daftar-Q3B .auto-group-tdzt-3bw .sudah-punya-akun-masuk-iNd .sudah-punya-akun-masuk-iNd-sub-0 {
+}
+.daftar-Q3B .auto-group-tdzt-3bw .sudah-punya-akun-masuk-iNd .sudah-punya-akun-masuk-iNd-sub-1 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #4abcfb;
+  font-family: Inter, 'Source Sans Pro';
+}
